@@ -14,5 +14,5 @@ This repository provides a script to set up iTerm2 with Zsh, including configura
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/yourusername/terminal_setup.git
+   git clone https://github.com/yanshah/terminal_setup.git
    cd terminal_setup
